@@ -23,6 +23,6 @@ git init // sau đó thực hiện thêm thao tác git add . và git commit
 node index.js
 ```
 
-> Bạn cứ mỗi ngày chăm chỉ vào chạy `node index.js` rồi commit lên Github của bạn rồi contributions của bạnbạn sẽ trở thành thành xanh <(") - muốn màu xanh đậm hay nhạt là tùy vào các bạn..
+> Bạn cứ mỗi ngày chăm chỉ vào chạy `node index.js` rồi commit lên Github của bạn rồi contributions của bạn sẽ trở thành thành xanh <(") - muốn màu xanh đậm hay nhạt là tùy vào các bạn..<br>
 => Push repository vừa được tạo lên Github + tận hưởng thành quả :))
 
